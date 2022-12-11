@@ -1,0 +1,28 @@
+{
+  "name": "random-string-smg",
+  "version": "1.0.0",
+  "description": "Random script Message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bin/global.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fred0727/random-string-smg.git"
+  },
+  "keywords": [],
+  "author": "Freddy Muñoz <freddymh07952023@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fred0727/random-string-smg/issues"
+  },
+  "homepage": "https://github.com/fred0727/random-string-smg#readme",
+  "bin": {
+    "random-string-smg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "random-string-smg": "^1.0.0"
+  }
+}
